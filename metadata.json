@@ -1,0 +1,7 @@
+{
+  "name": "Genelo AI – 0 Vision",
+  "description": "A futuristic, enterprise-level AI platform featuring multi-mode intelligence, advanced chat management, and a glassmorphic design architecture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
